@@ -1,0 +1,12 @@
+*sln
+*.vcxproj
+*filters
+*.user
+Concord/Debug
+Concord/enc_temp_folder
+Concord/.vs
+ConcordServer/Debug
+ConcordServer/enc_temp_folder
+ConcordServer/user.cpp
+ConcordServer/user.h
+ConcordServer/.vs
